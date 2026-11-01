@@ -1,0 +1,6 @@
+{
+  "name": "Sales Coaching Intelligence",
+  "description": "AI-powered sales coaching intelligence platform with diarized transcripts, interactive sentiment timelines, and consultative coaching cards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
