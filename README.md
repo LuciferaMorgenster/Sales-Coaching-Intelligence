@@ -4,6 +4,24 @@ An enterprise conversation intelligence and sales enablement platform that analy
 
 ---
 
+## 💖 Sponsor Sales Coaching Intelligence Platform
+
+Sales Coaching Intelligence Platform is an open-source project built with passion and dedication. Want to support the continued development of this project? You can!
+
+**Sponsor this project by making a donation via PayPal:**
+
+<div align="center">
+
+### ☕ [Donate via PayPal](https://paypal.me/luciferamorgenster)
+
+📧 **PayPal:** `luciferamorgenster@gmail.com`
+
+</div>
+
+Every donation, big or small, helps keep Ivory Tower BBS alive, fund new features, and support ongoing development. Thank you for your generosity! 🙏
+
+---
+
 ## Features
 
 ### 1. Multimodal Audio Intake & Playback
